@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0z8bajowdw31k.css","style"]
+:HL["/icon.png","image"]
+:HL["/game/animal-hospital-escape-1.png","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_3tF1WsGMRAiJcGE-7hFd"}

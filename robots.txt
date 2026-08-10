@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://animal-hospital-escape.wiki
+Sitemap: https://animal-hospital-escape.wiki/sitemap.xml
